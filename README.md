@@ -1,5 +1,7 @@
-# Code and data accompanying the paper "Interplay between slow slip events and seismicity in the Hikurangi Subduction Zone revealed by a new high-resolution catalog"  
+# Code and data accompanying the paper "Interplay between slow slip events and seismicity in the Hikurangi Subduction Zone revealed by a new high-resolution catalog" 
+
 Authors: Jessica Allen, Ting Wang, Mark Bebbington, Calum J Chamberlain, Jiancang Zhuang
+
 Accepted: Seismological Research Letters 2025
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxxx)
